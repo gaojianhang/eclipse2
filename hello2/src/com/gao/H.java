@@ -9,6 +9,9 @@ public class H {
 		System.out.println("你好git");
 		System.out.println("你好git");
 		System.out.println("你好git");
+		System.out.println("你好git");
+		System.out.println("你好git");
+		System.out.println("你好git");
 	}
 
 }
