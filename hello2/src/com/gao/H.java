@@ -28,6 +28,10 @@ public class H {
 
 		System.out.println("这里是分支");
 
+		System.out.println("这里是分支");
+		System.out.println("这里是分支");
+		System.out.println("这里是分支");
+
 	}
 
 }
